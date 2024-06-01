@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working: on nun
+- 🔭 I’m currently working on: nun
 - 🌱 I’m currently learning: github
 - 👯 I’m looking to collaborate on: nothing
 - 🤔 I’m looking for help with: no one
